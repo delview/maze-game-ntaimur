@@ -35,9 +35,11 @@
   "name":"maze-game",
   "resources":[
     {"id":{"name":"obj_brickwallblue","path":"objects/obj_brickwallblue/obj_brickwallblue.yy",},},
+    {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_brickwallblue","path":"sprites/spr_brickwallblue/spr_brickwallblue.yy",},},
+    {"id":{"name":"spr_brick_wall_blue","path":"sprites/spr_brick_wall_blue/spr_brick_wall_blue.yy",},},
+    {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_walkdown","path":"sprites/spr_walkdown/spr_walkdown.yy",},},
     {"id":{"name":"spr_walkleft","path":"sprites/spr_walkleft/spr_walkleft.yy",},},
     {"id":{"name":"spr_walkright","path":"sprites/spr_walkright/spr_walkright.yy",},},

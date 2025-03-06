@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwallblue",
+  "%Name":"obj_door",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwallblue",
+  "name":"obj_door",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_brick_wall_blue",
-    "path":"sprites/spr_brick_wall_blue/spr_brick_wall_blue.yy",
+    "name":"spr_door",
+    "path":"sprites/spr_door/spr_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,
