@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_walkup",
-  "bboxMode":0,
-  "bbox_bottom":62,
-  "bbox_left":17,
+  "bboxMode":2,
+  "bbox_bottom":60,
+  "bbox_left":16,
   "bbox_right":47,
   "bbox_top":8,
   "collisionKind":1,
