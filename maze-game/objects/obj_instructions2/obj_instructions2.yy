@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key",
+  "%Name":"obj_instructions2",
   "eventList":[],
   "managed":true,
-  "name":"obj_key",
+  "name":"obj_instructions2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key",
-    "path":"sprites/spr_key/spr_key.yy",
+    "name":"spr_spaceicon",
+    "path":"sprites/spr_spaceicon/spr_spaceicon.yy",
   },
   "spriteMaskId":null,
   "visible":true,

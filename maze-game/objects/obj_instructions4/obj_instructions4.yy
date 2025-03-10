@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key",
+  "%Name":"obj_instructions4",
   "eventList":[],
   "managed":true,
-  "name":"obj_key",
+  "name":"obj_instructions4",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key",
-    "path":"sprites/spr_key/spr_key.yy",
+    "name":"spr_instructions4",
+    "path":"sprites/spr_instructions4/spr_instructions4.yy",
   },
   "spriteMaskId":null,
   "visible":true,
