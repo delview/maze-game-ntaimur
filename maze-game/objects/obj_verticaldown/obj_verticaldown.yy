@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_instructions3",
-  "eventList":[],
+  "%Name":"obj_verticaldown",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_instructions3",
+  "name":"obj_verticaldown",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_instructions3",
-    "path":"sprites/spr_instructions3/spr_instructions3.yy",
+    "name":"spr_cannon",
+    "path":"sprites/spr_cannon/spr_cannon.yy",
   },
   "spriteMaskId":null,
   "visible":true,
