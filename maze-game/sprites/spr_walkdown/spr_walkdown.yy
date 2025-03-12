@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_walkdown",
   "bboxMode":2,
-  "bbox_bottom":59,
+  "bbox_bottom":61,
   "bbox_left":17,
   "bbox_right":46,
   "bbox_top":6,

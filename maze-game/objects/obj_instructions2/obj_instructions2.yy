@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spaceicon",
-    "path":"sprites/spr_spaceicon/spr_spaceicon.yy",
+    "name":"spr_instructions2",
+    "path":"sprites/spr_instructions2/spr_instructions2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
