@@ -18,11 +18,3 @@ move_speed = 2;
 /// @DnDSaveInfo : "spriteind" "spr_walkdown_idle"
 sprite_index = spr_walkdown_idle;
 image_index = 0;
-
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 676EBA4A
-/// @DnDArgument : "soundid" "backgrounddungeonmusic"
-/// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "backgrounddungeonmusic"
-audio_play_sound(backgrounddungeonmusic, 0, 1, 1.0, undefined, 1.0);
